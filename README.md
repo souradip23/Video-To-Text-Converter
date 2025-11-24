@@ -61,37 +61,40 @@ node index.js
 ```
 ---
 ✅ Server will start at http://localhost:4000
-
-3️⃣ Install Python & Whisper AI
-
+---
+### 3️⃣ Install Python & Whisper AI
+---
 Ensure Python 3.8+ is installed, then install Whisper globally:
-
+```
 pip install openai-whisper
+```
 
-4️⃣ Install FFmpeg
-
+### 4️⃣ Install FFmpeg
+---
 Download FFmpeg from the Official FFmpeg Builds
 .
 Extract and add the bin folder path to your system’s Environment Variables.
 
 Verify installation:
-
+```
 ffmpeg --version
-
-5️⃣ Frontend Setup
-
+```
+### 5️⃣ Frontend Setup
+---
 In another terminal:
-
+```
 cd frontend
 npm install
 npm run dev
-
+```
 
 Open your browser at:
 👉 http://localhost:5173
+---
 
-🧩 How It Works
 
+# 🧩 How It Works
+---
 🎧 User uploads an audio/video file.
 
 📨 File is sent to the backend using Multer.
@@ -104,6 +107,7 @@ Open your browser at:
 
 📝 User can view, copy, or download the generated transcript.
 
+---
 🪄 App Preview
 
 Flow:
