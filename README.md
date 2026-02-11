@@ -166,3 +166,4 @@ whisper "E:/AI-Project/Text-Converter/backend/uploads/sample.wav" --model small 
 
 Developed by Souradip
 ✨ Powered by OpenAI Whisper, Node.js, and React
+---
