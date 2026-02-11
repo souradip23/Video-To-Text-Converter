@@ -114,7 +114,7 @@ Open your browser at:
 ```
 🎬 Upload → ⚙️ Process → 📜 View → 💾 Download
 ```
-Frontend UI Highlights:
+# Frontend UI Highlights:
 
 ✨ Glassmorphism interface with dark mode
 
@@ -134,7 +134,7 @@ Building a responsive React + Tailwind CSS interface
 
 Creating a complete AI-powered full-stack application
 
-📂 Project Structure
+ # 📂 Project Structure
 Video-to-Text-Converter/
 ├── backend/
 │   ├── index.js
