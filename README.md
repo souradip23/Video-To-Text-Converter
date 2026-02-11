@@ -108,11 +108,12 @@ Open your browser at:
 📝 User can view, copy, or download the generated transcript.
 
 ---
-🪄 App Preview
+### 🪄 App Preview
 
-Flow:
+ # Flow:
+```
 🎬 Upload → ⚙️ Process → 📜 View → 💾 Download
-
+```
 Frontend UI Highlights:
 
 ✨ Glassmorphism interface with dark mode
