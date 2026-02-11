@@ -135,6 +135,7 @@ Building a responsive React + Tailwind CSS interface
 Creating a complete AI-powered full-stack application
 
  # 📂 Project Structure
+ ```
 Video-to-Text-Converter/
 ├── backend/
 │   ├── index.js
@@ -151,14 +152,15 @@ Video-to-Text-Converter/
 │   └── tailwind.config.js
 │
 └── README.md
+```
 
-🧰 Example Command (Manual Whisper Test)
+# 🧰 Example Command (Manual Whisper Test)
 
 You can test Whisper directly in the terminal:
 
 whisper "E:/AI-Project/Text-Converter/backend/uploads/sample.wav" --model small --language en --output_format txt --output_dir "E:/AI-Project/Text-Converter/backend/uploads"
 
-❤️ Credits
+# ❤️ Credits
 
 Developed by Souradip
 ✨ Powered by OpenAI Whisper, Node.js, and React
