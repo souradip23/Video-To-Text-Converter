@@ -122,7 +122,7 @@ Open your browser at:
 
 📋 Copy & 💾 Download options for transcript
 
-🧑‍💻 Learning Outcomes
+# 🧑‍💻 Learning Outcomes
 
 File upload handling using Multer
 
